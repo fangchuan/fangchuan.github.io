@@ -24,8 +24,8 @@ My research interest includes 3D computer vision and robotics.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02*: &nbsp;🎉🎉 PanoContext-Former is accepted by CVPR2024. 
+- *2021.07*: &nbsp;🎉🎉 Single-Shot Multiple-Lidar-and-Camera Calibration is accepted by IROS 2021. 
 
 # 📝 Publications 
 
@@ -36,11 +36,22 @@ My research interest includes 3D computer vision and robotics.
 
 **Chuan Fang**, Shuai Ding, Zilong Dong, Honghua Li, Siyu Zhu, Ping Tan
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/single-shot-teaser.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PanoContext-Former: Panoramic Total Scene Understanding with a Transformer](https://arxiv.org/pdf/2305.12497.pdf)
+
+Yuan Dong, **Chuan Fang**, Liefeng Bo, Zilong Dong, Ping Tan
+
+[**Project**](https://fangchuan.github.io/PanoContext-Former/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
@@ -54,8 +65,8 @@ My research interest includes 3D computer vision and robotics.
 - *2012.09 - 2016.06*, B.E, Automation School, NNanjing Univeristy of Post and Telecommunication. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.01*, Indoor Scene Understanding and Generation. AI center, Beike Inc. [\[slides\]](https://github.com/)
+- *2021.06*, Multiple Sensor Calibration.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
