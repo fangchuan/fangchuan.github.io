@@ -29,6 +29,20 @@ My research interest includes 3D computer vision and robotics.
 
 # 📝 Publications 
 
+- [CtrlRoom: Controllable Text-to-3D Room Meshes Generation with Layout Constraints](https://arxiv.org/abs/2310.03602), A, B, C, **axiv 2024**
+- 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/panocontext-former-teaser.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PanoContext-Former: Panoramic Total Scene Understanding with a Transformer](https://arxiv.org/pdf/2305.12497.pdf)
+
+Yuan Dong, **Chuan Fang**, Liefeng Bo, Zilong Dong, Ping Tan
+
+[**Project**](https://fangchuan.github.io/PanoContext-Former/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<!-- </div> -->
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2021</div><img src='images/single-shot-teaser.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -37,22 +51,15 @@ My research interest includes 3D computer vision and robotics.
 **Chuan Fang**, Shuai Ding, Zilong Dong, Honghua Li, Siyu Zhu, Ping Tan
 
 [**Project**](https://github.com/alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<!-- </div> -->
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/single-shot-teaser.png' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [RenderNet: Visual Relocalization Using Virtual Viewpoints in Large-Scale Indoor Environments](https://arxiv.org/abs/2103.14846), Rui Huang, **Chuan Fang**, Kejie Qiu, Le Cui, Zilong Dong, Siyu Zhu, Ping Tan, **axiv 2022**
 
-[PanoContext-Former: Panoramic Total Scene Understanding with a Transformer](https://arxiv.org/pdf/2305.12497.pdf)
+- [AR Mapping: Accurate and Efficient Mapping for Augmented Reality](https://arxiv.org/abs/2310.03602), Jiahui Zhang, Shitao Tang, Kejie Qiu, Rui Huang, **Chuan Fang**, Le Cui, Zilong Dong, Siyu Zhu, and Ping Tan, **axiv 2021**
 
-Yuan Dong, **Chuan Fang**, Liefeng Bo, Zilong Dong, Ping Tan
 
-[**Project**](https://fangchuan.github.io/PanoContext-Former/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -66,7 +73,7 @@ Yuan Dong, **Chuan Fang**, Liefeng Bo, Zilong Dong, Ping Tan
 
 # 💬 Invited Talks
 - *2024.01*, Indoor Scene Understanding and Generation. AI center, Beike Inc. [\[slides\]](https://github.com/)
-- *2021.06*, Multiple Sensor Calibration.  \| [\[video\]](https://github.com/)
+- *2021.06*, Multiple Sensor Calibration. 3D Vision Online Wechat Account \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
