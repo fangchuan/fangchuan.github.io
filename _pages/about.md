@@ -30,6 +30,7 @@ My research interest includes 3D computer vision and robotics.
 # 📝 Publications 
 
 - [CtrlRoom: Controllable Text-to-3D Room Meshes Generation with Layout Constraints](https://arxiv.org/abs/2310.03602), **Chuan Fang**, Yuan Dong, Kunming Luo, Xiaotao Hu, Rakesh Shrestha, and Ping Tan, **axiv 2024**
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/panocontext-former-teaser.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,7 +40,6 @@ My research interest includes 3D computer vision and robotics.
 Yuan Dong, **Chuan Fang**, Liefeng Bo, Zilong Dong, Ping Tan
 
 [**Project**](https://fangchuan.github.io/PanoContext-Former/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
@@ -51,19 +51,19 @@ Yuan Dong, **Chuan Fang**, Liefeng Bo, Zilong Dong, Ping Tan
 **Chuan Fang**, Shuai Ding, Zilong Dong, Honghua Li, Siyu Zhu, Ping Tan
 
 [**Project**](https://github.com/alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
 - [RenderNet: Visual Relocalization Using Virtual Viewpoints in Large-Scale Indoor Environments](https://arxiv.org/abs/2103.14846), Rui Huang, **Chuan Fang**, Kejie Qiu, Le Cui, Zilong Dong, Siyu Zhu, Ping Tan, **axiv 2022**
+</div>
 
 - [AR Mapping: Accurate and Efficient Mapping for Augmented Reality](https://arxiv.org/abs/2310.03602), Jiahui Zhang, Shitao Tang, Kejie Qiu, Rui Huang, **Chuan Fang**, Le Cui, Zilong Dong, Siyu Zhu, and Ping Tan, **axiv 2021**
 
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.10* 全国大学生电子设计竞赛-全国二等奖. 
+- *2014.08* RoboCup中国赛-全国一等奖. 
 
 # 📖 Educations
 - *2023.02 - now*, PhD, Electronic and Computing Engineering, Hong Kong University of Science and Technology. 
