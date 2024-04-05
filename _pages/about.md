@@ -29,8 +29,8 @@ My research interest includes 3D computer vision and robotics.
 
 # 📝 Publications 
 
-- [CtrlRoom: Controllable Text-to-3D Room Meshes Generation with Layout Constraints](https://arxiv.org/abs/2310.03602), A, B, C, **axiv 2024**
-- 
+- [CtrlRoom: Controllable Text-to-3D Room Meshes Generation with Layout Constraints](https://arxiv.org/abs/2310.03602), **Chuan Fang**, Yuan Dong, Kunming Luo, Xiaotao Hu, Rakesh Shrestha, and Ping Tan, **axiv 2024**
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/panocontext-former-teaser.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,7 +40,7 @@ Yuan Dong, **Chuan Fang**, Liefeng Bo, Zilong Dong, Ping Tan
 
 [**Project**](https://fangchuan.github.io/PanoContext-Former/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-<!-- </div> -->
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2021</div><img src='images/single-shot-teaser.png' alt="sym" width="50%"></div></div>
@@ -52,7 +52,7 @@ Yuan Dong, **Chuan Fang**, Liefeng Bo, Zilong Dong, Ping Tan
 
 [**Project**](https://github.com/alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-<!-- </div> -->
+</div>
 </div>
 
 - [RenderNet: Visual Relocalization Using Virtual Viewpoints in Large-Scale Indoor Environments](https://arxiv.org/abs/2103.14846), Rui Huang, **Chuan Fang**, Kejie Qiu, Le Cui, Zilong Dong, Siyu Zhu, Ping Tan, **axiv 2022**
@@ -69,7 +69,7 @@ Yuan Dong, **Chuan Fang**, Liefeng Bo, Zilong Dong, Ping Tan
 - *2023.02 - now*, PhD, Electronic and Computing Engineering, Hong Kong University of Science and Technology. 
 - *2019.06 - 2023.01*, Senior Algorithm Engineer, DAMO Academy XR-Lab, Alibaba Group. 
 - *2016.09 - 2019.06*, M.Sc, Electronic Science and Engineering School, Nanjing University. 
-- *2012.09 - 2016.06*, B.E, Automation School, NNanjing Univeristy of Post and Telecommunication. 
+- *2012.09 - 2016.06*, B.E, Automation School, Nanjing Univeristy of Post and Telecommunication. 
 
 # 💬 Invited Talks
 - *2024.01*, Indoor Scene Understanding and Generation. AI center, Beike Inc. [\[slides\]](https://github.com/)
