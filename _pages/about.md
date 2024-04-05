@@ -29,7 +29,15 @@ My research interest includes 3D computer vision and robotics.
 
 # 📝 Publications 
 
-- [CtrlRoom: Controllable Text-to-3D Room Meshes Generation with Layout Constraints](https://arxiv.org/abs/2310.03602), **Chuan Fang**, Yuan Dong, Kunming Luo, Xiaotao Hu, Rakesh Shrestha, and Ping Tan, **axiv 2024**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arixv 2024</div><img src='images/ctrlroom-teaser.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CtrlRoom: Controllable Text-to-3D Room Meshes Generation with Layout Constraints](https://arxiv.org/abs/2310.03602)
+
+**Chuan Fang**, Yuan Dong, Kunming Luo, Xiaotao Hu, Rakesh Shrestha, and Ping Tan
+
+[**Project**](https://fangchuan.github.io/ctrl-room.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/panocontext-former-teaser.png' alt="sym" width="50%"></div></div>
@@ -55,7 +63,6 @@ Yuan Dong, **Chuan Fang**, Liefeng Bo, Zilong Dong, Ping Tan
 </div>
 
 - [RenderNet: Visual Relocalization Using Virtual Viewpoints in Large-Scale Indoor Environments](https://arxiv.org/abs/2103.14846), Rui Huang, **Chuan Fang**, Kejie Qiu, Le Cui, Zilong Dong, Siyu Zhu, Ping Tan, **axiv 2022**
-</div>
 
 - [AR Mapping: Accurate and Efficient Mapping for Augmented Reality](https://arxiv.org/abs/2310.03602), Jiahui Zhang, Shitao Tang, Kejie Qiu, Rui Huang, **Chuan Fang**, Le Cui, Zilong Dong, Siyu Zhu, and Ping Tan, **axiv 2021**
 
