@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student of HKUST. I received my Master degree at Nanjing University (NJU), supervised by Prof. YunGe in 2019, and received my Bachelor degree in Nanjing University of Post and Telecommunications (NUPT) in 2016. I worked as a senior algorithm engineer at DAMO academy XR-Lab, Alibaba group from 2019 to 2023.
+I am a PhD student of HKUST, supervised by Prof [PingTan](https://ece.hkust.edu.hk/pingtan). I received my Master degree at Nanjing University (NJU), supervised by Prof. YunGe in 2019, and received my Bachelor degree in Nanjing University of Post and Telecommunications (NUPT) in 2016. I worked as a senior algorithm engineer at DAMO academy XR-Lab, Alibaba group from 2019 to 2023.
 
 My research interest includes 3D computer vision and robotics. 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -69,12 +69,12 @@ Yuan Dong, **Chuan Fang**, Liefeng Bo, Zilong Dong, Ping Tan
 
 
 # 🎖 Honors and Awards
+- *20019.10* 江苏省优秀研究生毕业论文-基于深度强化学习的无人驾驶车道保持决策的研究.
 - *2015.10* 全国大学生电子设计竞赛-全国二等奖. 
 - *2014.08* RoboCup中国赛-全国一等奖. 
 
 # 📖 Educations
 - *2023.02 - now*, PhD, Electronic and Computing Engineering, Hong Kong University of Science and Technology. 
-- *2019.06 - 2023.01*, Senior Algorithm Engineer, DAMO Academy XR-Lab, Alibaba Group. 
 - *2016.09 - 2019.06*, M.Sc, Electronic Science and Engineering School, Nanjing University. 
 - *2012.09 - 2016.06*, B.E, Automation School, Nanjing Univeristy of Post and Telecommunication. 
 
@@ -82,5 +82,6 @@ Yuan Dong, **Chuan Fang**, Liefeng Bo, Zilong Dong, Ping Tan
 - *2024.01*, Indoor Scene Understanding and Generation. AI center, Beike Inc. [\[slides\]](https://github.com/)
 - *2021.06*, Multiple Sensor Calibration. 3D Vision Online Wechat Account \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experiences
+- *2023.06 - now*, [LightIllusion](https://github.com/), China.
+- *2019.06 - 2023.01*, Senior Algorithm Engineer, DAMO Academy XR-Lab, Alibaba Group. 
