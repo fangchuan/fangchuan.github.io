@@ -24,12 +24,50 @@ My research interest includes 3D computer vision and robotics.
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 RaDeGS is accepted by TOG. 
+- *2024.11*: &nbsp;🎉🎉 CtrlRoom is accepted by 3DV2025. 
 - *2024.02*: &nbsp;🎉🎉 PanoContext-Former is accepted by CVPR2024. 
 - *2021.07*: &nbsp;🎉🎉 Single-Shot Multiple-Lidar-and-Camera Calibration is accepted by IROS 2021. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arixv 2024</div><img src='images/ctrlroom-teaser.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/spatialgen-teaser.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SpatialGen: Layout-guided 3D Indoor Scene Generation](https://arxiv.org/pdf/2406.01467)
+
+**Chuan Fang**, Heng Li, Yixun Liang, Jia Zheng, Yongsen Mao,
+Yuan Liu, Rui Tang, Zihan Zhou, Ping Tan
+
+[**Project**](https://manycore-research.github.io/SpatialGen/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/spatiallm-teaser.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SpatialLM: Training Large Language Models for Structured Indoor Modeling](https://arxiv.org/pdf/2406.01467)
+
+Yongsen Mao, Junhao Zhong, **Chuan Fang**, Jia Zheng, Rui Tang, Hao Zhu, Ping Tan, Zihan Zhou 
+
+[**Project**](https://manycore-research.github.io/SpatialLM/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOG 2025</div><img src='images/radegs-teaser.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RaDeGS: Rasterizing Depth in Gaussian Splatting](https://arxiv.org/pdf/2406.01467)
+
+Baowen Zhang, **Chuan Fang**, Rakesh Shrestha, Yixun Liang, Xiaoxiao Long, and Ping Tan
+
+[**Project**](https://baowenz.github.io/radegs/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3DV 2025</div><img src='images/ctrlroom-teaser.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CtrlRoom: Controllable Text-to-3D Room Meshes Generation with Layout Constraints](https://arxiv.org/abs/2310.03602)
