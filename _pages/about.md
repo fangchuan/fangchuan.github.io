@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student of HKUST, supervised by Prof [PingTan](https://ece.hkust.edu.hk/pingtan). I received my Master degree at Nanjing University (NJU), supervised by Prof. YunGe in 2019, and received my Bachelor degree in Nanjing University of Post and Telecommunications (NUPT) in 2016. I worked as a senior algorithm engineer at DAMO academy XR-Lab, Alibaba group from 2019 to 2023.
+I am a third-year PhD student of HKUST, supervised by Prof [PingTan](https://ece.hkust.edu.hk/pingtan). I received my Master degree at Nanjing University (NJU), supervised by Prof. YunGe in 2019, and received my Bachelor degree in Nanjing University of Post and Telecommunications (NUPT) in 2016. I worked as a senior algorithm engineer at DAMO academy XR-Lab, Alibaba group from 2019 to 2023.
 
 My research interest includes 3D computer vision and robotics. 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -121,5 +121,6 @@ Yuan Dong, **Chuan Fang**, Liefeng Bo, Zilong Dong, Ping Tan
 - *2021.06*, Multiple Sensor Calibration. 3D Vision Online Wechat Account \| [\[video\]](https://github.com/)
 
 # 💻 Work Experiences
-- *2023.06 - now*, [LightIllusion](https://github.com/), China.
+- *2024.06 - now*, Intership in [Manycore Tech](https://www.manycoretech.com/), China.
+- *2023.06 - 2024.06*, [LightIllusion](https://github.com/), China.
 - *2019.06 - 2023.01*, Senior Algorithm Engineer, DAMO Academy XR-Lab, Alibaba Group. 
