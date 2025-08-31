@@ -44,7 +44,7 @@ Yuan Liu, Rui Tang, Zihan Zhou, Ping Tan
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/spatiallm-teaser.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/spatiallm-teaser.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SpatialLM: Training Large Language Models for Structured Indoor Modeling](https://arxiv.org/pdf/2406.01467)
