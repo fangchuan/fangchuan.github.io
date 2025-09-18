@@ -24,6 +24,7 @@ My research interest includes 3D computer vision and robotics.
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 SpatialLM is accepted by NeuralIPS2025. 
 - *2025.06*: &nbsp;🎉🎉 RaDeGS is accepted by TOG. 
 - *2024.11*: &nbsp;🎉🎉 CtrlRoom is accepted by 3DV2025. 
 - *2024.02*: &nbsp;🎉🎉 PanoContext-Former is accepted by CVPR2024. 
@@ -44,7 +45,7 @@ Yuan Liu, Rui Tang, Zihan Zhou, Ping Tan
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/spatiallm-teaser.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuralIPS 2025</div><img src='images/spatiallm-teaser.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SpatialLM: Training Large Language Models for Structured Indoor Modeling](https://arxiv.org/pdf/2406.01467)
