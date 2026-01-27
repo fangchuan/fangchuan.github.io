@@ -24,6 +24,7 @@ My research interest includes 3D computer vision and robotics.
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 SpatialGen is accepted by 3DV2026. 
 - *2025.09*: &nbsp;🎉🎉 SpatialLM is accepted by NeuralIPS2025. 
 - *2025.06*: &nbsp;🎉🎉 RaDeGS is accepted by TOG. 
 - *2024.11*: &nbsp;🎉🎉 CtrlRoom is accepted by 3DV2025. 
@@ -32,7 +33,7 @@ My research interest includes 3D computer vision and robotics.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/spatialgen-teaser.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3DV 2026</div><img src='images/spatialgen-teaser.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SpatialGen: Layout-guided 3D Indoor Scene Generation](https://arxiv.org/pdf/2406.01467)
