@@ -37,7 +37,7 @@ Hi there👋, my name is Chuan FANG (in Chinese: 方川). I am a fourth-year Ph.
 
 My research focuses on advancing the frontier of **Multi-modal World Models**: AI systems that 👀perceive, 🎨generate, and 🦾interact within the physical world. I pursue this vision through four tightly connected directions: (1) **Multi-modality LLMs for Spatial Reasoning**, (2) **Generative Models for Controllable Video/3D Scenes**, (3) **Geometry-grounded Perception for Spatial Intelligence**, and (4) **Agentic Frameworks that unify understanding and generation**—where perception, reasoning, and content creation form a closed loop. By weaving these directions together, my overarching goal is to build general-purpose intelligent systems: AI that can understand, generate, and interact with complex physical environments.
 
-I've spent wonderful time as a research intern at [ManyCore Tech](https://www.manycoretech.com/) for controllable video generation, 3D scene generation and perception, working with [Dr. Zihan Zhou](https://zihan-zhou.github.io/). Before joining HKUST, I worked as a senior algorithm engineer at DAMO Academy XR-Lab, Alibaba Group from 2019 to 2023, led by Prof. [Ping Tan](https://ece.hkust.edu.hk/pingtan).
+I've spent wonderful time as a research intern at [ManyCore Tech](https://www.manycoretech.com/) for building world models that perceive, understand, and generate physical 3D space, working with [Dr. Zihan Zhou](https://zihan-z.github.io/). Before joining HKUST, I worked as a senior algorithm engineer at DAMO Academy XR-Lab, Alibaba Group from 2019 to 2023, led by Prof. [Ping Tan](https://ece.hkust.edu.hk/pingtan).
 
 I'm always open to research discussions and collaborations. Feel free to 📲contact me if you are interested.
 
@@ -89,6 +89,20 @@ Chenxing Jiang, Zhe Tong, Pusen Gao, Peize Liu, Yang Xu, **Chuan Fang**, Ping Ta
 <p class="paper-links"><a href="https://github.com/JIANG-CX/H-OmniStereo">[Project Page]</a> <a class="github-repo-link" href="https://github.com/JIANG-CX/H-OmniStereo" data-repo="JIANG-CX/H-OmniStereo"><i class="fab fa-github" aria-hidden="true"></i> GitHub <span class="github-stars" data-repo="JIANG-CX/H-OmniStereo">-- stars</span></a></p>
 
 TL;DR: H-OmniStereo performs zero-shot omnidirectional stereo matching guided by heading-aligned normal priors.
+
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ECCV 2026</div><img src="images/scenespinner-teaser.png" alt="SceneSpinner teaser"></div></div>
+<div class="paper-box-text" markdown="1">
+
+■ [SceneSpinner: Taming LLMs for Codematic Indoor Scene Generation](https://arxiv.org/abs/2606.12345)
+
+Yixun Liang, Qianyi Wu, **Chuan Fang**, Rui Chen, Jiahang Liu, Jianfeng Zhang, and Ping Tan
+
+*European Conference on Computer Vision* (**ECCV**), 2026, 
+<p class="paper-links"><a href="https://github.com/manycore-research/SceneSpinner">[Project Page]</a> <a class="github-repo-link" href="https://github.com/manycore-research/SceneSpinner" data-repo="manycore-research/SceneSpinner"><i class="fab fa-github" aria-hidden="true"></i> GitHub <span class="github-stars" data-repo="manycore-research/SceneSpinner">-- stars</span></a></p>
+
+TL;DR: SceneSpinner tames LLMs for codematic indoor scene generation.
 
 </div></div>
 
