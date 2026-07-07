@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Chuan FANG"
 description              : "Personal website of Chuan FANG"
-repository               : "https://fangchuan.github.io/"
+repository               : "fangchuan/fangchuan.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
