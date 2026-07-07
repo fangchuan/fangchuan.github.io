@@ -304,6 +304,34 @@ h1:before, .anchor:before {
         }
     }
 
+    .paper-links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.35rem 0.75rem;
+        align-items: center;
+        margin-top: 0.25rem;
+        margin-bottom: 0.48rem;
+    }
+
+    .github-repo-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.28rem;
+        color: #171516;
+        font-weight: 700;
+        text-decoration: none;
+
+        &:hover {
+            color: #000;
+            text-decoration: underline;
+        }
+    }
+
+    .github-stars {
+        color: #555;
+        font-weight: 400;
+    }
+
     .badge {
         top: 0.45rem;
         left: 0;

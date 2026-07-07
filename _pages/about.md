@@ -23,7 +23,7 @@ redirect_from:
     <p class="home-hero__affiliation">Electronic and Computer Engineering</p>
     <p class="home-hero__affiliation">Hong Kong University of Science and Technology</p>
     <p class="home-hero__affiliation">Hong Kong SAR, China</p>
-    <p class="home-hero__email">Email: <code>cfangac[at]connect.ust.hk</code> / <code>fang1457737815[at]gmail.com</code></p>
+    <p class="home-hero__email">Email: <code>cfangac@connect.ust.hk</code> / <code>fang1457737815@gmail.com</code></p>
     <p class="home-hero__links"><a href="https://scholar.google.com/citations?user=cBUlGS8AAAAJ">[Google Scholar]</a> &nbsp; <a href="https://github.com/fangchuan">[GitHub]</a></p>
   </div>
   <div class="home-hero__avatar">
@@ -72,7 +72,7 @@ I'm always open to research discussions and collaborations. Feel free to 📲con
 **Chuan Fang**, Lingteng Qiu, Yixun Liang, Rui Chen, Yuantong Bai, Zhaohua Zheng, Feipeng Tian, Zilong Dong, Zihan Zhou, Ping Tan
 
 *ACM SIGGRAPH Asia 2026*, submitted
-[[arXiv](https://arxiv.org/pdf/2406.01467)]
+<p class="paper-links"><a href="https://arxiv.org/pdf/2406.01467">[arXiv]</a> <a class="github-repo-link" href="https://github.com/fangchuan/SpatialCrafter" data-repo="fangchuan/SpatialCrafter"><i class="fab fa-github" aria-hidden="true"></i> GitHub <span class="github-stars" data-repo="fangchuan/SpatialCrafter">-- stars</span></a></p>
 
 TL;DR: SpatialCrafter builds generative 3D proxies from a single image to enable consistent, controllable video generation.
 
@@ -86,7 +86,7 @@ TL;DR: SpatialCrafter builds generative 3D proxies from a single image to enable
 Chenxing Jiang, Zhe Tong, Pusen Gao, Peize Liu, Yang Xu, **Chuan Fang**, Ping Tan, Shaojie Shen
 
 *IEEE Robotics and Automation Letters*, submitted
-[[Project Page](https://github.com/JIANG-CX/H-OmniStereo)] <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span></strong>
+<p class="paper-links"><a href="https://github.com/JIANG-CX/H-OmniStereo">[Project Page]</a> <a class="github-repo-link" href="https://github.com/JIANG-CX/H-OmniStereo" data-repo="JIANG-CX/H-OmniStereo"><i class="fab fa-github" aria-hidden="true"></i> GitHub <span class="github-stars" data-repo="JIANG-CX/H-OmniStereo">-- stars</span></a></p>
 
 TL;DR: H-OmniStereo performs zero-shot omnidirectional stereo matching guided by heading-aligned normal priors.
 
@@ -101,7 +101,7 @@ TL;DR: H-OmniStereo performs zero-shot omnidirectional stereo matching guided by
 
 *International Conference on 3D Vision* (**3DV**), 2026
 
-[[Project Page](https://manycore-research.github.io/SpatialGen/)] <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span></strong>
+<p class="paper-links"><a href="https://manycore-research.github.io/SpatialGen/">[Project Page]</a> <a class="github-repo-link" href="https://github.com/manycore-research/SpatialGen" data-repo="manycore-research/SpatialGen"><i class="fab fa-github" aria-hidden="true"></i> GitHub <span class="github-stars" data-repo="manycore-research/SpatialGen">-- stars</span></a></p>
 
 TL;DR: SpatialGen generates realistic, layout-consistent 3D indoor scenes conditioned on structured room layouts.
 
@@ -116,7 +116,7 @@ Yongsen Mao, Junhao Zhong, **Chuan Fang**, Jia Zheng, Rui Tang, Hao Zhu, Ping Ta
 
 *Neural Information Processing Systems* (**NeurIPS**), 2025
 
-[[Project Page](https://manycore-research.github.io/SpatialLM/)] <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span></strong>
+<p class="paper-links"><a href="https://manycore-research.github.io/SpatialLM/">[Project Page]</a> <a class="github-repo-link" href="https://github.com/manycore-research/SpatialLM" data-repo="manycore-research/SpatialLM"><i class="fab fa-github" aria-hidden="true"></i> GitHub <span class="github-stars" data-repo="manycore-research/SpatialLM">-- stars</span></a></p>
 
 TL;DR: SpatialLM trains large language models to directly predict structured 3D indoor scene representations.
 
@@ -131,7 +131,7 @@ Baowen Zhang, **Chuan Fang**, Rakesh Shrestha, Yixun Liang, Xiaoxiao Long, Ping 
 
 *ACM Transactions on Graphics* (**TOG**), 2025
 
-[[Project Page](https://baowenz.github.io/radegs/)] <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span></strong>
+<p class="paper-links"><a href="https://baowenz.github.io/radegs/">[Project Page]</a> <a class="github-repo-link" href="https://github.com/BaowenZ/RaDe-GS" data-repo="BaowenZ/RaDe-GS"><i class="fab fa-github" aria-hidden="true"></i> GitHub <span class="github-stars" data-repo="BaowenZ/RaDe-GS">-- stars</span></a></p>
 
 TL;DR: RaDeGS improves geometric fidelity of Gaussian Splatting by directly rasterizing depth during optimization.
 
@@ -146,7 +146,7 @@ TL;DR: RaDeGS improves geometric fidelity of Gaussian Splatting by directly rast
 
 *International Conference on 3D Vision* (**3DV**), 2025
 
-[[Project Page](https://fangchuan.github.io/ctrl-room.github.io/)] <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span></strong>
+<p class="paper-links"><a href="https://fangchuan.github.io/ctrl-room.github.io/">[Project Page]</a> <a class="github-repo-link" href="https://github.com/fangchuan/Ctrl-Room" data-repo="fangchuan/Ctrl-Room"><i class="fab fa-github" aria-hidden="true"></i> GitHub <span class="github-stars" data-repo="fangchuan/Ctrl-Room">-- stars</span></a></p>
 
 TL;DR: CtrlRoom generates controllable, layout-constrained 3D room meshes directly from text descriptions.
 
@@ -157,11 +157,11 @@ TL;DR: CtrlRoom generates controllable, layout-constrained 3D room meshes direct
 
 ■ [PanoContext-Former: Panoramic Total Scene Understanding with a Transformer](https://arxiv.org/pdf/2305.12497.pdf)
 
-Yuan Dong, **Chuan Fang**, Liefeng Bo, Zilong Dong, Ping Tan
+Yuan Dong\*, **Chuan Fang\***, Liefeng Bo, Zilong Dong, Ping Tan
 
 *Computer Vision and Pattern Recognition* (**CVPR**), 2024
 
-[[Project Page](https://fangchuan.github.io/PanoContext-Former/)] <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span></strong>
+<p class="paper-links"><a href="https://fangchuan.github.io/PanoContext-Former/">[Project Page]</a> <a class="github-repo-link" href="https://github.com/fangchuan/PanoContext-Former" data-repo="fangchuan/PanoContext-Former"><i class="fab fa-github" aria-hidden="true"></i> GitHub <span class="github-stars" data-repo="fangchuan/PanoContext-Former">-- stars</span></a></p>
 
 TL;DR: PanoContext-Former jointly reasons about layout, objects, and semantics in panoramic scenes with a transformer.
 
@@ -176,7 +176,7 @@ TL;DR: PanoContext-Former jointly reasons about layout, objects, and semantics i
 
 *International Conference on Intelligent Robots and Systems* (**IROS**), 2021
 
-[[Code](https://github.com/alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration)] <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span></strong>
+<p class="paper-links"><a href="https://github.com/alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration">[Code]</a> <a class="github-repo-link" href="https://github.com/alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration" data-repo="alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration"><i class="fab fa-github" aria-hidden="true"></i> GitHub <span class="github-stars" data-repo="alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration">-- stars</span></a></p>
 
 TL;DR: A single-shot calibration method for multiple cameras and 3D LiDARs using panoramic infrastructure cues.
 
