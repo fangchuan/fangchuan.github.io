@@ -48,7 +48,7 @@ I'm always open to research discussions and collaborations. Feel free to 📲con
 ## 📢 News
 
 <ul class="compact-list news-list">
-  <!-- <li><span>[2026-07]</span> One paper about single-image world generation (<a href="https://arxiv.org/pdf/2406.01467">SpatialCrafter</a>) was accepted to <strong>SIGGRAPH Asia</strong> 2026.</li> -->
+  <li><span>[2026-07]</span> One paper about Visual-Language-Navigation (<a href="https://arxiv.org/pdf/2406.01467">GeoDream</a>) was accepted to <strong>ACMMM</strong> 2026.</li>
   <li><span>[2026-06]</span> One paper about structured indoor modeling with LLMs (<a href="https://github.com/JIANG-CX/H-OmniStereo">SceneSpinner</a>) was accepted to <strong>ECCV</strong> 2026.</li>
   <li><span>[2025-11]</span> One paper about layout-guided 3D indoor scene generation (<a href="https://manycore-research.github.io/SpatialGen/">SpatialGen</a>) was accepted to <strong>3DV</strong> 2026.</li>
   <li><span>[2025-09]</span> One paper about structured indoor modeling with LLMs (<a href="https://manycore-research.github.io/SpatialLM/">SpatialLM</a>) was accepted to <strong>NeurIPS</strong> 2025.</li>
@@ -75,6 +75,20 @@ I'm always open to research discussions and collaborations. Feel free to 📲con
 <p class="paper-links"><a href="https://arxiv.org/pdf/2406.01467">[arXiv]</a> <a class="github-repo-link" href="https://github.com/fangchuan/SpatialCrafter" data-repo="fangchuan/SpatialCrafter"><i class="fab fa-github" aria-hidden="true"></i> GitHub <span class="github-stars" data-repo="fangchuan/SpatialCrafter">-- stars</span></a></p>
 
 TL;DR: SpatialCrafter builds generative 3D proxies from a single image to enable consistent, controllable video generation.
+
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ACMMM 2026</div><img src="images/geodream-teaser.png" alt="GeoDream teaser"></div></div>
+<div class="paper-box-text" markdown="1">
+
+■ [Dreaming the Physical World: A Geometry-Aware Generative World Model for Vision-and-Language Navigation](https://arxiv.org/abs/2605.14963)
+
+Yu Zhong, Zihao Zhang, Rui Zhang, Lingdong Huang, Shuo Wang, **Chuan Fang**, Xishan Zhang, Jiaming Guo, Shaohui Peng, Di Huang, Yanyang Yan, Xing Hu
+
+*ACM International Conference on Multimedia* (**ACMMM**), 2026,
+<p class="paper-links"><a href="https://geodream-project-page.com">[Project Page]</a> <a class="github-repo-link" href="https://github.com/geodream-repo" data-repo="geodream-repo"><i class="fab fa-github" aria-hidden="true"></i> GitHub <span class="github-stars" data-repo="geodream-repo">-- stars</span></a></p>
+
+TL;DR: Dreaming the Physical World via a sequential panoramic generative model to facilitate vision-and-language navigation.
 
 </div></div>
 
