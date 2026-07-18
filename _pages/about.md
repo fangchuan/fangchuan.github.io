@@ -33,15 +33,15 @@ redirect_from:
 
 ## 👤 Biography
 
-Hi there👋, my name is Chuan FANG (in Chinese: 方川). I am a fourth-year Ph.D. candidate of Electronic and Computer Engineering at [Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by Prof. [Ping Tan](https://ece.hkust.edu.hk/pingtan).
+Hi there👋, I am Chuan Fang (in Chinese: 方川), a fourth-year Ph.D. candidate in Electronic and Computer Engineering at [Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by Prof. [Ping Tan](https://ece.hkust.edu.hk/pingtan).
 
-My research focuses on advancing the frontier of **Multi-modal World Models**: AI systems that 👀perceive, 🎨generate, and 🦾interact within the physical world. I pursue this vision through four tightly connected directions: (1) **Multi-modality LLMs for Spatial Perception**, (2) **Generative Models for Controllable Video/3D Scenes**, (3) **Geometry-grounded Reasoning for Spatial Intelligence**, and (4) **Agentic Frameworks that unify understanding and generation**—where perception, reasoning, and content creation form a closed loop. By weaving these directions together, my overarching goal is to build general-purpose intelligent systems: AI that can understand, generate, and interact with complex physical environments.
+My research is driven by a single question: how can we build AI that truly understands and inhabits the physical world? I pursue this through **Multi-modal World Models** — AI systems that 👀perceive, 🎨generate, and 🦾interact within physical environments — along four tightly connected directions: (1) **Multi-modal LLMs for Spatial Perception**, (2) **Generative Models for Controllable Video/3D Scene Synthesis**, (3) **Geometry-grounded Reasoning for General-purpose Spatial Intelligence**, and (4) **Agentic Frameworks that Unify Understanding and Generation**, where perception, reasoning, and content creation converge into a single closed loop. Weaving these directions together, my research ambition is to build general-purpose intelligent systems capable of understanding, generating, and interacting with complex, real-world physical environments.
 
-I've spent wonderful time as a research intern at [ManyCore Tech](https://www.manycoretech.com/) for building world models that perceive, understand, and generate physical 3D space, working with [Dr. Zihan Zhou](https://zihan-z.github.io/). Before joining HKUST, I worked as a senior algorithm engineer at DAMO Academy XR-Lab, Alibaba Group from 2019 to 2023, led by Prof. [Ping Tan](https://ece.hkust.edu.hk/pingtan).
+Before HKUST, I spent three formative years (2019–2023) as a Senior Algorithm Engineer at Alibaba DAMO Academy's XR-Lab, working on 3D vision reconstruction and multi-sensor calibration under Prof. [Ping Tan](https://ece.hkust.edu.hk/pingtan). After that, I've spent wonderful time as a research intern at [ManyCore Tech](https://www.manycoretech.com/) for building world models that perceive, understand, and generate physical 3D space, working with [Dr. Zihan Zhou](https://zihan-z.github.io/).
 
-I'm always open to research discussions and collaborations. Feel free to 📲contact me if you are interested.
+I welcome research discussions and collaborations — please don't hesitate to reach out.
 
-📌 I am going to graduate in spring 2027 and am actively seeking full-time opportunities! Please feel free to reach out for more information if you think my background could be a good fit.
+📌 I will graduate in Spring 2027 and am actively seeking full-time research opportunities. If you think my background could be a strong fit for your team, I'd love to hear from you.
 
 <span class="anchor" id="news"></span>
 
