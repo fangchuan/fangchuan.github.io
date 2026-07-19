@@ -48,6 +48,7 @@ I welcome research discussions and collaborations — please don't hesitate to r
 ## 📢 News
 
 <ul class="compact-list news-list">
+  <li><span>[2026-07]</span> One paper about Controllable Video World Model (<a href="https://fangchuan.github.io/">SpatialCrafter</a>) was accepted to <strong>SIGGRAPH Asia</strong> 2026.</li>
   <li><span>[2026-07]</span> One paper about Visual-Language-Navigation (<a href="https://arxiv.org/pdf/2406.01467">GeoDream</a>) was accepted to <strong>ACMMM</strong> 2026.</li>
   <li><span>[2026-06]</span> One paper about structured indoor modeling with LLMs (<a href="https://github.com/JIANG-CX/H-OmniStereo">SceneSpinner</a>) was accepted to <strong>ECCV</strong> 2026.</li>
   <li><span>[2025-11]</span> One paper about layout-guided 3D indoor scene generation (<a href="https://manycore-research.github.io/SpatialGen/">SpatialGen</a>) was accepted to <strong>3DV</strong> 2026.</li>
@@ -67,7 +68,7 @@ I welcome research discussions and collaborations — please don't hesitate to r
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">SIGGRAPH Asia 2026</div><img src="images/spatialcrafter-teaser.jpg" alt="SpatialCrafter teaser"></div></div>
 <div class="paper-box-text" markdown="1">
 
-■ [SpatialCrafter: Single-Image World Modeling via Generative 3D Proxies](https://arxiv.org/pdf/2406.01467)
+■ [SpatialCrafter: Single-Image World Modeling via Generative 3D Proxies](https://fangchuan.github.io/)
 
 **Chuan Fang**, Lingteng Qiu, Yixun Liang, Rui Chen, Yuantong Bai, Zhaohua Zheng, Feipeng Tian, Zilong Dong, Zihan Zhou, Ping Tan
 
