@@ -213,9 +213,9 @@ TL;DR: A single-shot calibration method for multiple cameras and 3D LiDARs using
 
 <ul class="compact-list publication-list">
   <li>■ <a href="https://arxiv.org/abs/2103.14846">RenderNet: Visual Relocalization Using Virtual Viewpoints in Large-Scale Indoor Environments</a><br>
-  Rui Huang, <strong>Chuan Fang</strong>, Kejie Qiu, Le Cui, Zilong Dong, Siyu Zhu, Ping Tan, arXiv 2022.</li>
-  <li>■ <a href="https://arxiv.org/abs/2310.03602">AR Mapping: Accurate and Efficient Mapping for Augmented Reality</a><br>
   Jiahui Zhang, Shitao Tang, Kejie Qiu, Rui Huang, <strong>Chuan Fang</strong>, Le Cui, Zilong Dong, Siyu Zhu, Ping Tan, arXiv 2021.</li>
+  <li>■ <a href="https://arxiv.org/abs/2310.03602">AR Mapping: Accurate and Efficient Mapping for Augmented Reality</a><br>
+  Rui Huang, <strong>Chuan Fang</strong>, Kejie Qiu, Le Cui, Zilong Dong, Siyu Zhu, Ping Tan, arXiv 2022.</li>
 </ul>
 
 <span class="anchor" id="educations"></span>
