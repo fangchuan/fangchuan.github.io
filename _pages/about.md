@@ -72,7 +72,7 @@ I welcome research discussions and collaborations — please don't hesitate to r
 
 **Chuan Fang**, Lingteng Qiu, Yixun Liang, Rui Chen, Yuantong Bai, Zhaohua Zheng, Feipeng Tian, Zilong Dong, Zihan Zhou, Ping Tan
 
-*ACM SIGGRAPH Asia 2026*, submitted
+*ACM SIGGRAPH Asia 2026*
 <p class="paper-links"><a href="https://arxiv.org/pdf/2406.01467">[arXiv]</a> <a class="github-repo-link" href="https://github.com/fangchuan/SpatialCrafter" data-repo="fangchuan/SpatialCrafter"><i class="fab fa-github" aria-hidden="true"></i> GitHub <span class="github-stars" data-repo="fangchuan/SpatialCrafter">-- stars</span></a></p>
 
 TL;DR: SpatialCrafter builds generative 3D proxies from a single image to enable consistent, controllable video generation.
