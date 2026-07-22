@@ -292,6 +292,15 @@ TL;DR: A single-shot calibration method for multiple cameras and 3D LiDARs using
   </li>
 </ul>
 
+<span class="anchor" id="blogs"></span>
+
+## 💡 Blogs
+
+Sharing some of my research ideas, paper readings, and thoughts:
+<ul class="compact-list">
+  <li>■ Paper Reading: <a href="CVPR2025-FundationStereo-paper-readingg.pptx">CVPR2025-FundationStereo</a></li>
+</ul>
+
 <footer class="site-footer">
   © Chuan FANG
 </footer>
