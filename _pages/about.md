@@ -300,6 +300,9 @@ Sharing some of my research ideas, paper readings, and thoughts:
 <ul class="compact-list">
   <li>■ Paper Reading: <a href="CVPR2025-FundationStereo-paper-readingg.pptx">CVPR2025-FundationStereo</a></li>
 </ul>
+<ul class="compact-list">
+  <li>■ Paper Reading: <a href="ECCV2026-GenCeption-paper-reading.pptx">ECCV2026-GenCeption</a></li>
+</ul>
 
 <footer class="site-footer">
   © Chuan FANG
