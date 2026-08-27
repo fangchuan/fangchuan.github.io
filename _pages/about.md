@@ -68,7 +68,7 @@ I welcome research discussions and collaborations — please don't hesitate to r
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">SIGGRAPH Asia 2026</div><img src="images/spatialcrafter-teaser.jpg" alt="SpatialCrafter teaser"></div></div>
 <div class="paper-box-text" markdown="1">
 
-■ [SpatialCrafter: Single-Image World Modeling via Generative 3D Proxies](https://fangchuan.github.io/)
+■ [SpatialCrafter: Single-Image World Modeling via Generative 3D Proxies](https://fangchuan.github.io/SpatialCrafter)
 
 **Chuan Fang**, Lingteng Qiu, Yixun Liang, Rui Chen, Yuantong Bai, Zhaohua Zheng, Feipeng Tian, Zilong Dong, Zihan Zhou, Ping Tan
 
@@ -110,12 +110,12 @@ TL;DR: H-OmniStereo performs zero-shot omnidirectional stereo matching guided by
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">ECCV 2026</div><img src="images/scenespinner-teaser.png" alt="SceneSpinner teaser"></div></div>
 <div class="paper-box-text" markdown="1">
 
-■ [SceneSpinner: Taming LLMs for Codematic Indoor Scene Generation](https://arxiv.org/abs/2606.12345)
+■ [SceneSpinner: Taming LLMs for Codematic Indoor Scene Generation](https://eccv.ecva.net/virtual/2026/poster/3532)
 
 Yixun Liang, Qianyi Wu, **Chuan Fang**, Rui Chen, Jiahang Liu, Jianfeng Zhang, and Ping Tan
 
 *European Conference on Computer Vision* (**ECCV**), 2026, 
-<p class="paper-links"><a href="https://github.com/manycore-research/SceneSpinner">[Project Page]</a> <a class="github-repo-link" href="https://github.com/manycore-research/SceneSpinner" data-repo="manycore-research/SceneSpinner"><i class="fab fa-github" aria-hidden="true"></i> GitHub <span class="github-stars" data-repo="manycore-research/SceneSpinner">-- stars</span></a></p>
+<p class="paper-links"><a href="https://eccv.ecva.net/virtual/2026/poster/3532">[Project Page]</a> <a class="github-repo-link" href="https://eccv.ecva.net/virtual/2026/poster/3532" data-repo="manycore-research/SceneSpinner"><i class="fab fa-github" aria-hidden="true"></i> GitHub <span class="github-stars" data-repo="manycore-research/SceneSpinner">-- stars</span></a></p>
 
 TL;DR: SceneSpinner tames LLMs for codematic indoor scene generation.
 
@@ -280,7 +280,7 @@ TL;DR: A single-shot calibration method for multiple cameras and 3D LiDARs using
 <ul class="compact-list exp-list">
   <li>
     <strong>Research Intern</strong>, <a href="https://www.manycoretech.com/">ManyCore Tech</a>, China
-    <span class="date-right">2024.06 – now</span>
+    <span class="date-right">2024.06 – 2026.06</span>
   </li>
   <li>
     LightIllusion, China
