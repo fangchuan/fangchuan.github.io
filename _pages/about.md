@@ -33,9 +33,9 @@ redirect_from:
 
 ## 👤 Biography
 
-Hi there👋, I am Chuan Fang (in Chinese: 方川), a fourth-year Ph.D. candidate in Electronic and Computer Engineering at [Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by Prof. [Ping Tan](https://ece.hkust.edu.hk/pingtan).
+Hi, I am Chuan Fang (in Chinese: 方川), a fourth-year Ph.D. candidate in Electronic and Computer Engineering at [Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by Prof. [Ping Tan](https://ece.hkust.edu.hk/pingtan).
 
-My research is driven by a single question: how can we build AI that truly understands and inhabits the physical world? I pursue this through **Multi-modal World Models** — AI systems that 👀perceive, 🎨generate, and 🦾interact within physical environments — along four tightly connected directions: (1) **Multi-modal LLMs for Spatial Perception**, (2) **Generative Models for Controllable Video/3D Scene Synthesis**, (3) **Geometry-grounded Reasoning for General-purpose Spatial Intelligence**, and (4) **Agentic Frameworks that Unify Understanding and Generation**, where perception, reasoning, and content creation converge into a single closed loop. Weaving these directions together, my research ambition is to build general-purpose intelligent systems capable of understanding, generating, and interacting with complex, real-world physical environments.
+My research is driven by a single question: how can we build AI that truly understands and inhabits the physical world? I pursue this through **Multi-modal World Models** — AI systems that **perceive**, **generate**, and **interact** within physical environments — along four tightly connected directions: (1) **Multi-modal LLMs for Spatial Perception**, (2) **Generative Models for Controllable Video/3D Scene Synthesis**, (3) **Geometry-grounded Reasoning for General-purpose Spatial Intelligence**, and (4) **Agentic Frameworks that Unify Understanding and Generation**, where perception, reasoning, and content creation converge into a single closed loop. Weaving these directions together, my research ambition is to build general-purpose intelligent systems capable of understanding, generating, and interacting with complex, real-world physical environments.
 
 Before HKUST, I spent three formative years (2019–2023) as a Senior Algorithm Engineer at Alibaba DAMO Academy's XR-Lab, working on 3D vision reconstruction and multi-sensor calibration under Prof. [Ping Tan](https://ece.hkust.edu.hk/pingtan). After that, I've spent wonderful time as a research intern at [ManyCore Tech](https://www.manycoretech.com/) for building world models that perceive, understand, and generate physical 3D space, working with [Dr. Zihan Zhou](https://zihan-z.github.io/).
 
@@ -48,7 +48,8 @@ I welcome research discussions and collaborations — please don't hesitate to r
 ## 📢 News
 
 <ul class="compact-list news-list">
-  <li><span>[2026-07]</span> One paper about Controllable Video World Model (<a href="https://fangchuan.github.io/">SpatialCrafter</a>) was accepted to <strong>SIGGRAPH Asia</strong> 2026.</li>
+  <li><span>[2026-09]</span> One paper about Panoramic Stereo Matching (<a href="https://arxiv.org/abs/2605.14963">H-OmniStereo</a>) was accepted to <strong>RAL</strong> 2026.</li>
+  <li><span>[2026-07]</span> One paper about Controllable Video World Model (<a href="https://fangchuan.github.io/SpatialCrafter/">SpatialCrafter</a>) was accepted to <strong>SIGGRAPH Asia</strong> 2026.</li>
   <li><span>[2026-07]</span> One paper about Visual-Language-Navigation (<a href="https://arxiv.org/pdf/2406.01467">GeoDream</a>) was accepted to <strong>ACMMM</strong> 2026.</li>
   <li><span>[2026-06]</span> One paper about structured indoor modeling with LLMs (<a href="https://github.com/JIANG-CX/H-OmniStereo">SceneSpinner</a>) was accepted to <strong>ECCV</strong> 2026.</li>
   <li><span>[2025-11]</span> One paper about layout-guided 3D indoor scene generation (<a href="https://manycore-research.github.io/SpatialGen/">SpatialGen</a>) was accepted to <strong>3DV</strong> 2026.</li>
@@ -93,14 +94,14 @@ TL;DR: Dreaming the Physical World via a sequential panoramic generative model t
 
 </div></div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Submitted to RAL</div><img src="images/oministereo-teaser.png" alt="H-OmniStereo teaser"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">RAL</div><img src="images/oministereo-teaser.png" alt="H-OmniStereo teaser"></div></div>
 <div class="paper-box-text" markdown="1">
 
 ■ [H-OmniStereo: Zero-Shot Omnidirectional Stereo Matching with Heading-Aligned Normal Priors](https://arxiv.org/abs/2605.14963)
 
 Chenxing Jiang, Zhe Tong, Pusen Gao, Peize Liu, Yang Xu, **Chuan Fang**, Ping Tan, Shaojie Shen
 
-*IEEE Robotics and Automation Letters*, submitted
+*IEEE Robotics and Automation Letters*
 <p class="paper-links"><a href="https://github.com/JIANG-CX/H-OmniStereo">[Project Page]</a> <a class="github-repo-link" href="https://github.com/JIANG-CX/H-OmniStereo" data-repo="JIANG-CX/H-OmniStereo"><i class="fab fa-github" aria-hidden="true"></i> GitHub <span class="github-stars" data-repo="JIANG-CX/H-OmniStereo">-- stars</span></a></p>
 
 TL;DR: H-OmniStereo performs zero-shot omnidirectional stereo matching guided by heading-aligned normal priors.
@@ -269,8 +270,9 @@ TL;DR: A single-shot calibration method for multiple cameras and 3D LiDARs using
     </ul>
   </li>
   <li>■ Journal Reviewer: TVCG</li>
-  <li>■ Invited talk: <em>Indoor Scene Understanding and Generation</em>, AI Center, Beike Inc., 2024.01. [[<a href="https://github.com/">Slides</a>]]</li>
-  <li>■ Invited talk: <em>Multiple Sensor Calibration</em>, 3D Vision Online WeChat Account, 2021.06. [[<a href="https://github.com/">Video</a>]]</li>
+  <li>■ Invited talk: <em>Towards Unified 3D Spatial Intelligence</em>, 2012 AI Lab, Huawei Inc., 2026.09. [[<a href="https://drive.google.com/uc?export=download&id=1uJULw1lE6gWcbNKq8o-6Bmj0kAG5fFSG">Slides</a>]]</li>
+  <li>■ Invited talk: <em>Indoor Scene Understanding and Generation</em>, AI Center, Beike Inc., 2024.01. [[<a href="https://drive.google.com/uc?export=download&id=1hDXdaSCtiN3EcIbe8cJcpKb362j3GFrv">Slides</a>]]</li>
+  <li>■ Invited talk: <em>Multiple Sensor Calibration</em>, 3D Vision Online WeChat Account, 2021.06. [[<a href="https://drive.google.com/uc?export=download&id=1ysEimjrcHEn9vZuxmAXy9gZ4VZnf9TSG">Video</a>]]</li>
 </ul>
 
 <span class="anchor" id="experiences"></span>
@@ -281,10 +283,6 @@ TL;DR: A single-shot calibration method for multiple cameras and 3D LiDARs using
   <li>
     <strong>Research Intern</strong>, <a href="https://www.manycoretech.com/">ManyCore Tech</a>, China
     <span class="date-right">2024.06 – 2026.06</span>
-  </li>
-  <li>
-    LightIllusion, China
-    <span class="date-right">2023.06 – 2024.06</span>
   </li>
   <li>
     <strong>Senior Algorithm Engineer</strong>, DAMO Academy XR-Lab, Alibaba Group
